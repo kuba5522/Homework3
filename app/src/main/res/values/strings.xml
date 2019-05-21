@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_sensors">my_sensors</string>
+    <string name="sensor_name">sensor_name</string>
+    <string name="sensor_values">sensor_values</string>
+    <string name="ball">Ball</string>
+    <string name="kula_decyzyjna">Kula Decyzyjna</string>
+    <string name="textview">TextView</string>
+
+</resources>
